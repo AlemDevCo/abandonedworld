@@ -106,7 +106,9 @@ Higher-level buildings offer better rewards, more danger, and deeper stories.
 • Tool Purchase
 
 • Buy specific tools directly
+
 ⸻
+
 **Main Goal**
 > The main objective is not just profit, but completion.
 
